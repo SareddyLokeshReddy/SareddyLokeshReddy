@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sareddy-lokeshreddy-70289931a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.hackerrank.com/profile/MaddulaNeelaveni" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" height="25" />
   </a>
 </div>
 
