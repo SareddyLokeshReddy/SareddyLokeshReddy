@@ -1,11 +1,11 @@
-<!-- 🌌 HERO ANIMATION (BIG + ATTRACTIVE) -->
+<!-- 🚀 SOFTWARE ENGINEER HERO ANIMATION -->
 <div align="center">
-  <img height="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+  <img height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
 <br/>
 
-<!-- 🌐 SOCIAL BADGES -->
+<!-- 🌐 SOCIAL LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sareddy-lokeshreddy-70289931a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
@@ -20,21 +20,19 @@
 
 ---
 
-<!-- 👋 NAME -->
 <h1 align="center">Hi 👋, I'm Sareddy Lokesh Reddy</h1>
 
-<!-- ✨ TYPING EFFECT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Python+%7C+DSA+Learner;API+Explorer;Future+Software+Engineer;Exploring+AI+and+Prompt+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Python+%7C+DSA+Learner;Software+Engineering+Enthusiast;API+Explorer;Exploring+AI+and+Prompt+Engineering" />
 </div>
 
 ---
 
 ## 🚀 About Me
 - 🌱 Learning **Python** & **Data Structures and Algorithms (DSA)**
-- 🧠 Improving **problem-solving skills** daily
+- 🧠 Improving problem-solving skills daily
 - 🔍 Exploring **APIs, AI & Prompt Engineering**
-- 💻 Passionate about becoming a **product-based software engineer**
+- 💻 Passionate about **Software Engineering**
 
 ---
 
@@ -61,7 +59,7 @@
 
 ---
 
-<!-- 🐍 CONTRIBUTION SNAKE -->
+<!-- 🐍 CONTRIBUTION ANIMATION -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/SareddyLokeshReddy/SareddyLokeshReddy/output/snake.svg"
        alt="Snake animation"
