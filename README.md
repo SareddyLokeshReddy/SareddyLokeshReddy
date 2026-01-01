@@ -28,17 +28,6 @@
 
 ---
 
-## 🌟 LeetCode Stats
-
-<!-- LeetCode stats card (auto updates based on your profile) -->
-<div align="center">
-  <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
 ## 🚀 About Me
 - 🌱 Learning **Python** & **Data Structures and Algorithms (DSA)**
 - 🧠 Improving problem-solving skills daily
@@ -70,9 +59,19 @@
 
 ---
 
-<!-- 🐍 CONTRIBUTION ANIMATION -->
+<!-- 🐍 CONTRIBUTION SNAKE GAME -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/SareddyLokeshReddy/SareddyLokeshReddy/output/snake.svg"
        alt="Snake animation"
        style="filter: drop-shadow(0 0 15px #00E7FF);" />
+</div>
+
+---
+
+## 📊 LeetCode Stats
+<div align="center">
+  <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark&font=Fira%20Code&ext=contest" 
+         alt="LeetCode Stats Card" />
+  </a>
 </div>
