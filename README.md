@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Stats
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark&font=Fira%20Code&ext=contest" 
