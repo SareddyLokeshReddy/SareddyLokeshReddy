@@ -1,11 +1,11 @@
-<!-- 🚀 SOFTWARE ENGINEER HERO ANIMATION -->
+<!-- 🚀 SOFTWARE ENGINEERING HERO ANIMATION -->
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
 <br/>
 
-<!-- 🌐 SOCIAL LINKS -->
+<!-- 🌐 SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sareddy-lokeshreddy-70289931a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
@@ -24,6 +24,17 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=900&lines=Python+%7C+DSA+Learner;Software+Engineering+Enthusiast;API+Explorer;Exploring+AI+and+Prompt+Engineering" />
+</div>
+
+---
+
+## 🌟 LeetCode Stats
+
+<!-- LeetCode stats card (auto updates based on your profile) -->
+<div align="center">
+  <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
