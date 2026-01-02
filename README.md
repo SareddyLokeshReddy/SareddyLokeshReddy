@@ -73,19 +73,11 @@
 
 ## 📊 Stats
 
-<!-- 📈 GitHub Overall Stats (styled like LeetCode card) -->
+<!-- 📈 GitHub Overall Stats (single clean card) -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api
-    ?username=SareddyLokeshReddy
-    &show_icons=true
-    &include_all_commits=true
-    &count_private=true
-    &theme=dark
-    &hide_border=true
-    &border_radius=10"
-    alt="GitHub Overall Stats"
-    style="max-width: 420px;" />
+    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
+    alt="GitHub Overall Stats" />
 </div>
 
 <br/>
@@ -94,11 +86,7 @@
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img
-      src="https://leetcard.jacoblin.cool/lokeshreddysareddy
-      ?theme=dark
-      &font=Fira%20Code
-      &radius=10"
-      alt="LeetCode Stats Card"
-      style="max-width: 420px;" />
+      src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark&font=Fira%20Code&radius=10"
+      alt="LeetCode Stats Card" />
   </a>
 </div>
