@@ -74,13 +74,6 @@
 ## 📊 Stats
 
 <!-- 📈 GitHub Overall Stats (single clean card) -->
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
-    alt="GitHub Overall Stats" />
-</div>
-
-<br/>
 
 <!-- 🧠 LeetCode Stats -->
 <div align="center">
