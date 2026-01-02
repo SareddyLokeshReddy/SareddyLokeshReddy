@@ -73,7 +73,17 @@
 
 ## 📊 Stats
 
-<!-- 🔥 GitHub Streak Stats -->
+<!-- 📈 OVERALL GITHUB STATS -->
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&theme=dark&hide_border=true"
+    alt="GitHub Overall Stats"
+    style="max-width: 100%;" />
+</div>
+
+<br/>
+
+<!-- 🔥 GITHUB STREAK STATS -->
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=SareddyLokeshReddy&theme=dark&hide_border=true"
@@ -83,7 +93,7 @@
 
 <br/>
 
-<!-- 🧠 LeetCode Stats -->
+<!-- 🧠 LEETCODE STATS -->
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img
