@@ -73,25 +73,16 @@
 
 ## 📊 Stats
 
-<!-- 📈 GitHub Overall Stats -->
+<!-- 📈 GitHub Overall Stats (single clean card) -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"
     alt="GitHub Overall Stats" />
 </div>
 
 <br/>
 
-<!-- 🔥 GitHub Streak Stats -->
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SareddyLokeshReddy&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<!-- 🧠 LeetCode Stats (clean card like screenshot) -->
+<!-- 🧠 LeetCode Stats -->
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img
