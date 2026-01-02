@@ -66,39 +66,36 @@
   <img
     src="https://raw.githubusercontent.com/SareddyLokeshReddy/SareddyLokeshReddy/output/snake.svg"
     alt="Snake animation"
-    style="max-width: 100%; filter: drop-shadow(0 0 10px #00E7FF);" />
+    style="max-width:100%; filter: drop-shadow(0 0 10px #00E7FF);" />
 </div>
 
 ---
 
 ## 📊 Stats
 
-<!-- 📈 OVERALL GITHUB STATS -->
+<!-- 📈 GitHub Overall Stats -->
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&theme=dark&hide_border=true"
-    alt="GitHub Overall Stats"
-    style="max-width: 100%;" />
+    src="https://github-readme-stats.vercel.app/api?username=SareddyLokeshReddy&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"
+    alt="GitHub Overall Stats" />
 </div>
 
 <br/>
 
-<!-- 🔥 GITHUB STREAK STATS -->
+<!-- 🔥 GitHub Streak Stats -->
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=SareddyLokeshReddy&theme=dark&hide_border=true"
-    alt="GitHub Streak Stats"
-    style="max-width: 100%;" />
+    src="https://streak-stats.demolab.com?user=SareddyLokeshReddy&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
-<!-- 🧠 LEETCODE STATS -->
+<!-- 🧠 LeetCode Stats (clean card like screenshot) -->
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img
-      src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark&font=Fira%20Code&ext=contest"
-      alt="LeetCode Stats Card"
-      style="max-width: 100%;" />
+      src="https://leetcard.jacoblin.cool/lokeshreddysareddy?theme=dark&font=Fira%20Code&radius=10"
+      alt="LeetCode Stats Card" />
   </a>
 </div>
