@@ -25,16 +25,7 @@
 <!-- ✨ TYPING ANIMATION -->
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=24
-    &duration=3000
-    &pause=900
-    &color=00E7FF
-    &center=true
-    &vCenter=true
-    &width=800
-    &lines=Python+%7C+DSA+Learner;Software+Engineering+Enthusiast;API+Explorer;Exploring+AI+and+Prompt+Engineering" />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=00E7FF&center=true&vCenter=true&width=800&lines=Python+%7C+DSA+Learner;Software+Engineering+Enthusiast;API+Explorer;Exploring+AI+and+Prompt+Engineering" />
 </div>
 
 ---
@@ -80,7 +71,19 @@
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 Stats
+
+<!-- 🔥 GitHub Streak Stats -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SareddyLokeshReddy&theme=dark&hide_border=true"
+    alt="GitHub Streak Stats"
+    style="max-width: 100%;" />
+</div>
+
+<br/>
+
+<!-- 🧠 LeetCode Stats -->
 <div align="center">
   <a href="https://leetcode.com/u/lokeshreddysareddy/" target="_blank">
     <img
